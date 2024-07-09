@@ -84,4 +84,6 @@ def delete_user_data(name):
     
 edit_name = input("Enter name to edit: ")
 
+#get_user_data()
+#edit_user_data(edit_name)
 delete_user_data(edit_name)
